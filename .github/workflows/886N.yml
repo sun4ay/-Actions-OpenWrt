@@ -8,8 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: TP-866N OpenWrt
-
+name: TP-866N
 on:
   repository_dispatch:
   workflow_dispatch:
